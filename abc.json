@@ -1,0 +1,13 @@
+{
+    "name": "affix",
+    "version": "1.0",
+    "desc": "（测试中请勿使用）用于固定一个容器在某个位置，当容器不在视口时滚动该容器",
+    "cover": "",
+    "author": {
+        "name": "明河",
+        "email": "minghe12@126.com",
+        "page": "请修改作者个人首页"
+    },
+    "type": "kissy-pie",
+    "type-url": "http://abc.alibaba-inc.com/r/kissy-pie"
+}
